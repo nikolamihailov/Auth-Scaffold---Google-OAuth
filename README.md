@@ -5,7 +5,6 @@ Designed as a reusable starting point for future projects.
 
 Includes **Register**, **Login**, **Google Sign-In**, and **Dark Mode** support.
 
-
 ## ✨ Features
 
 ### 🔐 Authentication
@@ -13,12 +12,12 @@ Includes **Register**, **Login**, **Google Sign-In**, and **Dark Mode** support.
 - Login with email & password  
 - Google OAuth (Sign in with Google)  
 - JWT-based authentication  
-- Optional: editable profile + image upload
+- Editable profile + image upload
 
 ### 🎨 UI / UX
 - Clean tabbed Login/Register form  
 - Integrated dark/light theme  
-- Tailwind CSS styling  
+- SCSS styling
 - Minimal and extensible structure
 
 ### 🏗️ Tech Stack
