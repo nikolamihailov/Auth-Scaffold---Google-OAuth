@@ -1,4 +1,4 @@
-# 🚀 Auth Starter — Email/Password + Google OAuth + Dark Theme
+# 🚀 Auth Scaffold — Email/Password + Google OAuth + Dark Theme
 
 A minimal but scalable full-stack authentication scaffold built with **React**, **Express**, and **TypeScript**.  
 Designed as a reusable starting point for future projects.
