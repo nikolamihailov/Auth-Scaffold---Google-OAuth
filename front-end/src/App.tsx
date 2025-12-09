@@ -1,8 +1,10 @@
 import { useEffect } from "react";
 
+const BASE_URL = import.meta.env.VITE_BASE_URL;
+
 function App() {
     useEffect(() => {
-        fetch("http://localhost:8080")
+        fetch(`${BASE_URL}`)
             .then((res) => res.text())
             .then(console.log);
     }, []);
